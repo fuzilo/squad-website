@@ -1,0 +1,21 @@
+.container-geral{
+    background-color: red;
+    height:700px;
+    display: flex;
+    gap:2%;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.card{background-color: aqua;
+height: 450px;
+width: 300px;
+
+
+}
+
+
+@media screen {
+    
+    
+}
